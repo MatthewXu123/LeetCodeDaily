@@ -1,7 +1,7 @@
 package com.matthewxu.meduim;
 
 /**
- * @description ÎŞÖØ¸´×Ö·ûµÄ×î³¤×Ó´®
+ * @description æ— é‡å¤å­—ç¬¦çš„æœ€é•¿å­ä¸²
  * @author MatthewXu
  *
  */

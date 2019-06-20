@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NoRepeatLongestStr",
+            "request": "launch",
+            "mainClass": "com.matthewxu.meduim.NoRepeatLongestStr",
+            "projectName": "LeetCodeDaily"
+        }
+    ]
+}
